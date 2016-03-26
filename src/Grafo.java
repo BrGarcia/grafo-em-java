@@ -41,6 +41,9 @@ public class Grafo {
 	}
 	protected void obterVerticeGrauMMM(){
 		//implementar codigo
+		// deve ser um for dentro de um for,
+		//pesquisando cada elemento da lista de vertices
+		//depois vendo a quantidade de arestas ligadas a ele
 	}
 	protected void testarConexo(){
 		//implementar
